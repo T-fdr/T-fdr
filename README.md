@@ -4,7 +4,7 @@
 
 Owner Sky Empire / 130 / CSI Gray hat / programmer / penetration tester / technical criminal investigator.
 
-Skills: LOUA / PHP / SQL / XML / JS / HTML / CSS / DISCORD.JS / (:
+Skills: Lua / PHP / SQL / XML / JS / HTML / CSS / DISCORD.JS / (:
 
 - 🔭 I’m currently working on sky empire 
 - 💬 Ask me about my mew 
